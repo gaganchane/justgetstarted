@@ -10,12 +10,7 @@ from sklearn.metrics import mean_squared_error
 
 dataset = pd.read_csv('InputTraumatic.csv')
 # print(dataset)
-plt.figure(1)
-plt.scatter(dataset.dance, dataset.health, color='blue')
-plt.title('Mental health as a function of song dance level')
-plt.xlabel('dance level')
-plt.ylabel('health')
-plt.show()
+
 
 data = dataset.dance.reshape((len(dataset.dance), 1))
 CV = dataset.health.reshape((len(dataset.health), 1))
@@ -24,11 +19,16 @@ regr = linear_model.LinearRegression()
 regr.fit(data,CV)
 predicted_results = regr.predict(data)
 
-
+plt.plot(data, predicted_results, color = 'green', linewidth =3)
+plt.scatter(data, CV, color='black')
+plt.title('Mental health as a function of song dance level')
+plt.xlabel('dance level')
+plt.ylabel('health')
+plt.show()
 
 print("Result with Outlier:")
 print('Coefficients (m): \n', regr.coef_)
-print('Intercept (b): \n', regr.Intercept_)
+print('Intercept (b): \n', regr.intercept_)
 
 # MSE = mean_squared_error(dataset.health, predicted_results)
 # RMSE = math.sqrt(MSE)
