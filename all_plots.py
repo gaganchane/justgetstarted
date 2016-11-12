@@ -7,7 +7,7 @@ from sklearn import linear_model
 from sklearn.metrics import r2_score
 from sklearn.metrics import mean_squared_error
 
-dataset = pd.read_csv('data.csv')
+dataset = pd.read_csv('InputTraumatic.csv')
 print(dataset)
 
 plt.figure(1)
@@ -15,6 +15,13 @@ plt.scatter(dataset.tempo, dataset.health, color='blue')
 plt.title('Mental health as a function of song tempo')
 plt.xlabel('tempo')
 plt.ylabel('health')
+plt.show()
+
+plt.figure(2)
+plt.scatter(dataset.tempo, dataset.enjoy_life, color='blue')
+plt.title('Ability to enjoy life as a function of song tempo')
+plt.xlabel('tempo')
+plt.ylabel('ability to enjoy life')
 plt.show()
 
 plt.figure(1)
