@@ -3,6 +3,7 @@ import pandas as pd
 import math
 import numpy as np
 import pylab as P
+import seaborn as sns
 
 from sklearn import linear_model
 from sklearn.metrics import r2_score
