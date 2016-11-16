@@ -8,9 +8,8 @@ from sklearn import linear_model
 from sklearn.metrics import r2_score
 from sklearn.metrics import mean_squared_error
 
-dataset = pd.read_excel('data_all.csv')
+dataset = pd.read_csv('data_all.csv')
 # print(dataset)
-
 
 data = dataset.dance.reshape((len(dataset.dance), 1))
 CV = dataset.health.reshape((len(dataset.health), 1))
