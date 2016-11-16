@@ -8,7 +8,7 @@ from sklearn import linear_model
 from sklearn.metrics import r2_score
 from sklearn.metrics import mean_squared_error
 
-dataset = pd.read_csv('InputTraumatic.csv')
+dataset = pd.read_excel('data_all.xlsx')
 # print(dataset)
 
 
