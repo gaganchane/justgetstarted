@@ -1,0 +1,256 @@
+energy_categorical,dance_categorical,valence_categorical,tempo_categorical,popularity_categorical,health_categorical,hours_of_music_categorical
+Low-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,High-Popularity,Very High,Medium-Hours
+Low-Energy,High-Dance,Low-Valence,Medium-Fast-Tempo,Medium-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,Very High,Low-Hours
+High-Energy,Low-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Very High,High-Hours
+Low-Energy,High-Dance,Low-Valence,Fast-Tempo,Low-Popularity,Medium,Low-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,Very High,Low-Hours
+High-Energy,Low-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Very High,Medium-Hours
+Low-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Medium,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,Medium,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,High-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,Medium,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,High-Popularity,Very High,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Low-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,High,Low-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,Medium,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,High-Popularity,Very High,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,High,Low-Hours
+High-Energy,High-Dance,High-Valence,Slow-Tempo,Medium-Popularity,Very High,Low-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,High-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Low,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,Low,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,High-Popularity,Low,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Medium,Low-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,High-Popularity,Medium,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Low-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Medium,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Medium,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Medium,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Medium,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,Medium,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,High-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,Medium,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,High-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,High-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,High-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Medium,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Medium,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,High-Popularity,Medium,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,High-Popularity,Very High,Low-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,Medium,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,Low-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,High-Popularity,Excellent,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,Medium,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,Medium,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,Medium,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Very High,Low-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,High-Popularity,Medium,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,High-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,High-Popularity,Very High,Low-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,High-Popularity,High,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,Medium,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,Very High,Low-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,High-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,Medium,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Excellent,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Medium,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,High-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Low,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Medium,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,High-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,Medium,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Low-Popularity,Low,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,High-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Low-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,High,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Medium,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,Medium,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,Excellent,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,Excellent,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,High-Popularity,Medium,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,High,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,Low,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Medium,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Low,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,High-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,High,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,Low,Low-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Slow-Tempo,High-Popularity,Medium,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,High-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,Excellent,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,High-Popularity,Excellent,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Excellent,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,Very High,Low-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,Medium,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,Excellent,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Medium,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Slow-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Excellent,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Low-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,High-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,High-Popularity,High,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Excellent,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,High-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Low-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,High-Popularity,Very High,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Very High,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Low,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,Excellent,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Medium,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Very High,Low-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Low,Low-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,Low,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,High,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Low-Popularity,Medium,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,Low,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Very High,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,Low,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,High,Low-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,Excellent,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,Low-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Low,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Low,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,High,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Medium,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,Very High,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,High,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Low,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Low-Popularity,Very High,Low-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Low-Popularity,Medium,Low-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,High,Low-Hours
+High-Energy,High-Dance,High-Valence,Slow-Tempo,Medium-Popularity,Low,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Low-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,High-Popularity,Medium,Low-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,Medium,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,High,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,Low,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,High-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,Medium,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Low-Popularity,Excellent,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Very High,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,Low,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,Medium,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,Medium,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Low,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,Very High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,Low,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,Very Low,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Medium,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,Excellent,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Medium-Popularity,Medium,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,Low-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,High,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Low-Popularity,Very High,Low-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Low-Popularity,Very High,Medium-Hours
+High-Energy,High-Dance,High-Valence,Slow-Tempo,Low-Popularity,Medium,Medium-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,Excellent,High-Hours
+High-Energy,High-Dance,High-Valence,Fast-Tempo,Medium-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,High,High-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Low-Popularity,High,Low-Hours
+High-Energy,High-Dance,High-Valence,Medium-Slow-Tempo,Low-Popularity,Medium,Medium-Hours
+High-Energy,High-Dance,High-Valence,Medium-Fast-Tempo,Medium-Popularity,High,Low-Hours

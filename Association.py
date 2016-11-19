@@ -125,8 +125,8 @@ def dataFromFile(fname):
                 record = frozenset(line.split(','))
                 yield record
 
-inFile = dataFromFile('data_all_categorical.csv')
-minSupport = 0.2
+inFile = dataFromFile('data_all_categorical_reduced_columns.csv')
+minSupport = 0.20
 minConfidence = 0.4
 
 items, rules = runApriori(inFile, minSupport, minConfidence)
