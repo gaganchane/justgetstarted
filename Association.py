@@ -126,7 +126,7 @@ def dataFromFile(fname):
                 yield record
 
 inFile = dataFromFile('data_all_categorical_reduced_columns.csv')
-minSupport = 0.20
+minSupport = 0.25
 minConfidence = 0.4
 
 items, rules = runApriori(inFile, minSupport, minConfidence)
