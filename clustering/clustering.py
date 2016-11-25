@@ -55,6 +55,70 @@ print("The cluster centroids are: \n", KM7.cluster_centers_)
 print("Cluster", KM7.labels_)
 print("Sum of distances of samples to their closest cluster center: ", KM7.inertia_)
 
+KM8 = KMeans(n_clusters=8, init='k-means++', random_state=170)
+
+KM8 = KM8.fit(dataset)
+
+print("The cluster centroids are: \n", KM8.cluster_centers_)
+print("Cluster", KM8.labels_)
+print("Sum of distances of samples to their closest cluster center: ", KM8.inertia_)
+
+KM9 = KMeans(n_clusters=9, init='k-means++', random_state=170)
+
+KM9 = KM9.fit(dataset)
+
+print("The cluster centroids are: \n", KM9.cluster_centers_)
+print("Cluster", KM9.labels_)
+print("Sum of distances of samples to their closest cluster center: ", KM9.inertia_)
+
+KM10 = KMeans(n_clusters=10, init='k-means++', random_state=170)
+
+KM10 = KM10.fit(dataset)
+
+print("The cluster centroids are: \n", KM10.cluster_centers_)
+print("Cluster", KM10.labels_)
+print("Sum of distances of samples to their closest cluster center: ", KM10.inertia_)
+
+KM11 = KMeans(n_clusters=11, init='k-means++', random_state=170)
+
+KM11 = KM11.fit(dataset)
+
+print("The cluster centroids are: \n", KM11.cluster_centers_)
+print("Cluster", KM11.labels_)
+print("Sum of distances of samples to their closest cluster center: ", KM11.inertia_)
+
+KM12 = KMeans(n_clusters=12, init='k-means++', random_state=170)
+
+KM12 = KM12.fit(dataset)
+
+print("The cluster centroids are: \n", KM12.cluster_centers_)
+print("Cluster", KM12.labels_)
+print("Sum of distances of samples to their closest cluster center: ", KM12.inertia_)
+
+KM13 = KMeans(n_clusters=13, init='k-means++', random_state=170)
+
+KM13 = KM13.fit(dataset)
+
+print("The cluster centroids are: \n", KM13.cluster_centers_)
+print("Cluster", KM13.labels_)
+print("Sum of distances of samples to their closest cluster center: ", KM13.inertia_)
+
+KM14 = KMeans(n_clusters=14, init='k-means++', random_state=170)
+
+KM14 = KM14.fit(dataset)
+
+print("The cluster centroids are: \n", KM14.cluster_centers_)
+print("Cluster", KM14.labels_)
+print("Sum of distances of samples to their closest cluster center: ", KM14.inertia_)
+
+KM15 = KMeans(n_clusters=15, init='k-means++', random_state=170)
+
+KM15 = KM15.fit(dataset)
+
+print("The cluster centroids are: \n", KM15.cluster_centers_)
+print("Cluster", KM15.labels_)
+print("Sum of distances of samples to their closest cluster center: ", KM15.inertia_)
+
 colors = ['blue','yellow']
 
 # def Tempo(y_data, y_name):
