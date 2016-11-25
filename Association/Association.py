@@ -125,7 +125,7 @@ def dataFromFile(fname):
                 record = frozenset(line.split(','))
                 yield record
 
-inFile = dataFromFile('data_all_categorical_all.csv')
+inFile = dataFromFile('data_all_categorical_without_age.csv')
 minSupport = 0.10
 minConfidence = 0.70
 
