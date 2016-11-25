@@ -6,27 +6,27 @@ from sklearn import tree
 from sklearn import preprocessing
 from sklearn.cross_validation import KFold, cross_val_score
 
-dataset = pd.read_csv('grades_dataset.csv')
+dataset = pd.read_csv('data_decision2.csv')
 print(dataset)
 
 # prepare datasets to be fed in the regression model
 #predict attend class given extra hours and grade
-CV = dataset.attend_class.reshape((len(dataset.attend_class), 1))
-data = (dataset.ix[:,'extra_hours':'grade'].values).reshape((len(dataset.attend_class), 2))
+CV = dataset.health_categorical.reshape((len(dataset.health_categorical), 1))
+data = (dataset.ix[:,'tempo':'popularity':'energy'].values).reshape((len(dataset.health_categorical), 3))
 
 print(data)
 print(CV)
 
 # Create linear regression object
 #
-DT = DecisionTreeClassifier(criterion="entropy", min_samples_leaf = 2)
+DT = DecisionTreeClassifier(criterion="entropy", min_samples_leaf = 3)
 
 # Train the model using the training sets
 DT.fit(data, CV)
 
 # the model
 with open("predict_attend_class.dot", 'w') as f:
-    f = tree.export_graphviz(DT, out_file=f, feature_names=["extra_hours", "grade"], class_names=["No","Yes"], filled=True)
+    f = tree.export_graphviz(DT, out_file=f, feature_names=["tempo", "popularity", "energy"], class_names=["High-Health","Low-Health", "Medium-Health"], filled=True)
 
 
 #predict the class for each data point
@@ -40,7 +40,7 @@ print("Feature importance: ", DT.feature_importances_)
 
 print("Accuracy score for the model: \n", DT.score(data,CV))
 
-print(metrics.confusion_matrix(CV, predicted, labels=["Yes","No"]))
+print(metrics.confusion_matrix(CV, predicted, labels=["High-Health","Medium-Health", "Low-Health"]))
 
 # Calculating 5 fold cross validation results
 model = DecisionTreeClassifier()
