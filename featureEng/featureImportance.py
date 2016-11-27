@@ -9,7 +9,7 @@ from sklearn.ensemble import ExtraTreesClassifier
 dataset = pd.read_csv('../data_all.csv')
 
 x = dataset[['tempo', 'popularity','energy', 'liveness', 'dance', 'valence', 'instrumental', 'acoustic']]
-y = dataset[['health']]
+y = dataset['health']
 
 print(x)
 print(y)

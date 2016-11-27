@@ -10,10 +10,10 @@ from sklearn.feature_selection import RFE
 dataset = pd.read_csv('../data_all.csv')
 
 x = dataset[['tempo', 'popularity','energy', 'liveness', 'dance', 'valence', 'instrumental', 'acoustic']]
-y = dataset[['health']]
+y = dataset['health']
 
 print(x)
-print(y)
+print(y)	
 
 # create a base classifier used to evaluate a subset of attributes
 model = LogisticRegression()
