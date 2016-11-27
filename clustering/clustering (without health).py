@@ -130,7 +130,7 @@ Tempo(dataset.popularity, 'popularity');
 Tempo(dataset.valence, 'valence');
 Tempo(dataset.energy, 'energy');
 Tempo(dataset.dance, 'dance');
-Tempo(dataset.acoustic, 'acoustic');
+# Tempo(dataset.acoustic, 'acoustic');
 # Tempo(dataset.instrumental, 'instrumental');
 # Tempo(dataset.liveness, 'liveness');
 # #
@@ -142,7 +142,7 @@ def Popularity(y_data, y_name):
 Popularity(dataset.valence, 'valence');
 Popularity(dataset.energy, 'energy');
 Popularity(dataset.dance, 'dance');
-Popularity(dataset.acoustic, 'acoustic');
+# Popularity(dataset.acoustic, 'acoustic');
 # Popularity(dataset.instrumental, 'instrumental');
 # Popularity(dataset.liveness, 'liveness');
 
@@ -153,7 +153,7 @@ def Valence(y_data, y_name):
     plt.show()
 Valence(dataset.energy, 'energy');
 Valence(dataset.dance, 'dance');
-Valence(dataset.acoustic, 'acoustic');
+# Valence(dataset.acoustic, 'acoustic');
 # Valence(dataset.instrumental, 'instrumental');
 #
 def Energy(y_data, y_name):
@@ -162,15 +162,15 @@ def Energy(y_data, y_name):
     plt.ylabel(y_name)
     plt.show()
 Energy(dataset.dance, 'dance');
-Energy(dataset.acoustic, 'acoustic');
+# Energy(dataset.acoustic, 'acoustic');
 # Energy(dataset.instrumental, 'instrumental');
 
-def Dance(y_data, y_name):
-    plt.scatter(dataset.dance, y_data, c=KM4.labels_, cmap=matplotlib.colors.ListedColormap(colors), s=75)
-    plt.xlabel('dance')
-    plt.ylabel(y_name)
-    plt.show()
-Dance(dataset.acoustic, 'acoustic');
+# def Dance(y_data, y_name):
+#     plt.scatter(dataset.dance, y_data, c=KM4.labels_, cmap=matplotlib.colors.ListedColormap(colors), s=75)
+#     plt.xlabel('dance')
+#     plt.ylabel(y_name)
+#     plt.show()
+# Dance(dataset.acoustic, 'acoustic');
 # Dance(dataset.instrumental, 'instrumental');
 
 # def Acoustic(y_data, y_name):
