@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import statsmodels.api as sm
 
-data = pd.read_csv('data_all.csv')
+data = pd.read_csv('data_all_norm.csv')
 
 x = data[['tempo', 'popularity','energy', 'liveness', 'dance', 'valence', 'instrumental', 'acoustic']]
 y = data['health']
