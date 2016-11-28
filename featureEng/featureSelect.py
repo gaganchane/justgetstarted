@@ -7,7 +7,7 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.feature_selection import RFE
 
 # load the iris datasets
-dataset = pd.read_csv('../data_all.csv')
+dataset = pd.read_csv('data_all_norm.csv')
 
 x = dataset[['tempo', 'popularity','energy', 'liveness', 'dance', 'valence', 'instrumental', 'acoustic']]
 y = dataset['health']
@@ -19,7 +19,7 @@ print(y)
 model = LogisticRegression()
 
 # create the RFE model and select 3 attributes
-rfe = RFE(model, 3)
+rfe = RFE(model, 1)
 rfe = rfe.fit(x, y)
 
 # summarize the selection of the attributes

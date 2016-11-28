@@ -6,7 +6,7 @@ from sklearn.ensemble import ExtraTreesClassifier
 
 
 # load the iris datasets
-dataset = pd.read_csv('../data_all.csv')
+dataset = pd.read_csv('data_all_norm.csv')
 
 x = dataset[['tempo', 'popularity','energy', 'liveness', 'dance', 'valence', 'instrumental', 'acoustic']]
 y = dataset['health']
